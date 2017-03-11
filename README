@@ -1,0 +1,7 @@
+Sudoku resolver made by damien Laurent v1.0
+
+Usage: make or make re
+       ./solver [fileinput]  or
+       ./solver [fileinput] [fileoutput]
+
+For the file output you can choose any name it will be generated with the sudoku solved
