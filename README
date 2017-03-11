@@ -1,4 +1,4 @@
-Sudoku resolver made by damien Laurent v1.0
+Sudoku solver made by damien Laurent v1.0
 
 Usage: make or make re
        ./solver [fileinput]  or
